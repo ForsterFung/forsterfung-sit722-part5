@@ -1,4 +1,3 @@
-# Your Solution
 #
 # Publishes a Docker image.
 #

@@ -1,4 +1,3 @@
-# Your Solution
 #
 # Builds a Docker image.
 #
